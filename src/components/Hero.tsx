@@ -31,7 +31,7 @@ export function Hero() {
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-accent-cyan opacity-80"></span>
               <span className="relative inline-flex rounded-full h-3 w-3 bg-accent-cyan"></span>
             </span>
-            <span className="text-sm font-semibold text-gray-200">Trusted by architects and interior designers</span>
+            <span className="text-sm font-semibold text-gray-200">Trusted by ambitious brands and service businesses</span>
           </motion.div>
 
           <h1 className="text-5xl md:text-7xl font-semibold tracking-tighter leading-[1.05] text-white selection:bg-accent-blue/30">
